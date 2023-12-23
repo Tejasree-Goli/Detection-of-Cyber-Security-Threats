@@ -8,6 +8,6 @@ Organizations can benefit from these technologies by automating the detection of
 
 **Results:** The classifier showed promising results in differentiating between attack and benign traffic. Features like Flow Duration and Total Forward Packets were particularly effective in identifying specific attack types. The TCP Flag Counts, especially the PSH flag, emerged as a significant indicator of benign traffic. We achieved a model accuracy of 0.99.
 
-**Reference:** <a href ="https://github.com/singlestore-labs/spaces-notebooks/tree/master/notebooks/network-intrusion-detection-part-1"> *Network Intrusion Detection* </a>
+**Reference:** <a href ="https://github.com/singlestore-labs/spaces-notebooks/tree/master/notebooks/network-intrusion-detection-part-1"> *Network Intrusion Detection [Cybersecurity Anomaly Detection]* </a>
 
 
